@@ -1,0 +1,13 @@
+Cargue en un Dataframe los datos de los accidentes de los últimos 3 años
+Agregue una columna tipo date formada por los valores de las columnas correspondientes a Año, Mes, Dia, Hora y Minuto.
+Agregue una columna para Área cuyos valores serán Urbana o Suburbana dependiendo del área donde ocurrió el accidente.
+Agregue una columna Zona cuyos valores serán la zona donde ocurrió el accidente
+Elimine las columnas URBANA y SUBURBANA
+Determine cual municipio de cada estado tuvo más meses sin accidentes
+Resuma los accidentes del último año por tipo y que porcentaje representan
+Obtenga la cantidad de muertos y lesionados de los últimos 3 años
+¿Cómo se compara el número de accidentes de cada año contra el anterior? ¿En qué porcentaje varió?
+Seleccione una o dos características y haga una gráfica de cada una de las siguientes:
+Histograma
+Dispersión
+Líneas
