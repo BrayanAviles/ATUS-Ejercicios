@@ -8,3 +8,6 @@ Seleccione una o dos características y haga una gráfica de cada una de las sig
 Histograma
 Dispersión
 Líneas
+
+
+pedro.vc@culiacan.tecnm.mx
