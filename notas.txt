@@ -1,5 +1,5 @@
+Determine cual municipio de cada estado tuvo más meses sin accidentes
 Resuma los accidentes del último año por tipo y que porcentaje representan
-Obtenga la cantidad de muertos y lesionados de los últimos 3 años
 ¿Cómo se compara el número de accidentes de cada año contra el anterior? ¿En qué porcentaje varió?
 Seleccione una o dos características y haga una gráfica de cada una de las siguientes:
 Histograma
